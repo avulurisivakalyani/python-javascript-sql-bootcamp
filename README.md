@@ -1,5 +1,9 @@
 # Python-JavaScript-SQL Bootcamp
 
+![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-Standard-blue?logo=mysql&logoColor=white)
+
 ## Table of Contents
 - [Python](#python)
 - [JavaScript](#javascript)
